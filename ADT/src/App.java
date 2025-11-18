@@ -1,5 +1,3 @@
-public class App {
-
 public static void main(String[] args) throws Exception {
         
         Coppia<String, Persona> p = new Coppia<>("Mario", new Persona("Mario", "Rossi"));
